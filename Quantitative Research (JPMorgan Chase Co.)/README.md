@@ -33,4 +33,4 @@ $$EL = PD \times LGD \times EAD$$
 While this project is finance-based, the core techniques—**Maximum Likelihood Estimation (MLE)** and **Dynamic Programming**—are fundamental pillars in *Computational Neuroscience*. These methods are essential for modeling neural spike sorting and optimizing artificial neural network architectures.
 
 ---
-*Completed on January 20, 2026, as part of an academic portfolio for MEXT Scholarship preparation (Research Student track) at Kyoto University.*
+*Completed on January 20, 2026, as part of an academic portfolio*
