@@ -1,36 +1,18 @@
-# 🏦 J.P. Morgan Chase & Co. - Quantitative Research Simulation
+# Portfolio & Technical Explorations
 
-This folder contains my technical implementation for the **Quantitative Researcher** job simulation at J.P. Morgan Chase. The project focuses on credit risk modeling using statistical approaches and algorithmic optimization.
+Welcome to my portfolio repository. This repository serves as an archive of my academic journey in Computer Science, as well as documentation of my professional projects and independent research.
 
-##  Project Objective
-The primary goal of this project was to understand how mathematical fundamentals (Calculus and Statistics) serve as the backbone for precise data analysis in global investment banking. This experience is a crucial part of building my foundational skills for future research in **NeuroAI**.
+## Areas of Focus
+- **Computational Intelligence:** Exploring optimization algorithms and data modeling.
+- **NeuroAI (Research Interest):** Studying the intersection between artificial intelligence and brain mechanisms.
+- **Quantitative Research:** Applying statistics and mathematics to industrial solutions.
 
-##  File Structure
-- **`JPMorgan_Task4_Ferry.py`**: Main Python script featuring Logistic Regression modeling, Expected Loss calculations, and data visualization.
-- **`JPMC_Task 4_Example Answer.docx`**: JPMC’s reference solution utilizing **Dynamic Programming** and **Maximum Likelihood Estimation**. I performed a comparative study of these methods to understand stochastic optimization.
-- **`Task 3 and 4_Loan_Data.csv`**: The dataset containing borrower profiles (FICO Scores, Income, Debt, etc.).
-- **`JPMC_Certificate.pdf`**: Official certificate of completion.
+## Major Projects
 
-## 🛠️ Technical & Mathematical Implementation
+### Quantitative Research - J.P. Morgan Chase & Co.
+Implementation of credit risk models and data optimization using Python.
+- **Key Skills:** Logistic Regression, Dynamic Programming, Expected Loss Modeling.
+- **Highlight:** Achieved 99.7% model accuracy in predicting customer defaults.
 
-### 1. Credit Risk Modeling (Logistic Regression)
-I developed a binary classification model to predict the *Probability of Default* (PD).
-- **Accuracy:** 99.7% on the test set.
-- **Concept:** Implemented the **Sigmoid function** to map financial inputs into a probability space $[0, 1]$.
-- **Risk Drivers:** Identified that `credit_lines_outstanding` has the strongest positive correlation with default risk.
-
-### 2. Algorithmic Optimization (FICO Bucketing)
-By analyzing the provided *Example Answer*, I explored the optimization of FICO score segmentation.
-- **Methodology:** Comparative study on using **Dynamic Programming** to maximize the **Log-Likelihood** (Bernoulli Distribution).
-- **Goal:** Finding optimal cut-off points that minimize intra-group variance and maximize inter-group risk differentiation.
-
-### 3. Risk Metrics Calculation
-Estimated potential financial losses using the *Expected Loss* (EL) framework:
-$$EL = PD \times LGD \times EAD$$
-*Where PD = Prob. of Default, LGD = Loss Given Default (60%), and EAD = Exposure at Default.*
-
-## 🚀 Relevance to NeuroAI
-While this project is finance-based, the core techniques—**Maximum Likelihood Estimation (MLE)** and **Dynamic Programming**—are fundamental pillars in *Computational Neuroscience*. These methods are essential for modeling neural spike sorting and optimizing artificial neural network architectures.
-
----
-*Completed on January 20, 2026, as part of an academic portfolio for MEXT Scholarship preparation (Research Student track) at Kyoto University.*
+### 🧠 NeuroAI & Machine Learning (Coming Soon)
+Independent research project on neural signal processing and neural network architecture.
