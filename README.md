@@ -5,7 +5,6 @@ Welcome to my portfolio repository. This repository serves as an archive of my a
 ## Areas of Focus
 - **Computational Intelligence:** Exploring optimization algorithms and data modeling.
 - **NeuroAI (Research Interest):** Studying the intersection between artificial intelligence and brain mechanisms.
-- **Quantitative Research:** Applying statistics and mathematics to industrial solutions.
 
 ## Major Projects
 
