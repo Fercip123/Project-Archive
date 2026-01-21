@@ -1,6 +1,6 @@
 # Portfolio & Technical Explorations
 
-Welcome to my portfolio repository. This repository serves as an archive of my academic journey in Computer Science, as well as documentation of my professional projects and independent research.
+This repository serves as an archive of my academic journey in Computer Science, as well as documentation of my professional projects and independent research.
 
 ## Areas of Focus
 - **Computational Intelligence:** Exploring optimization algorithms and data modeling.
