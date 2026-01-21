@@ -4,7 +4,7 @@ Welcome to my portfolio repository. This repository serves as an archive of my a
 
 ## Areas of Focus
 - **Computational Intelligence:** Exploring optimization algorithms and data modeling.
-- **NeuroAI (Research Interest):** Studying the intersection between artificial intelligence and brain mechanisms.
+- **Machine learning:** Using libraries such as scikit-learn for machine learning models
 
 ## Major Projects
 
@@ -13,5 +13,4 @@ Implementation of credit risk models and data optimization using Python.
 - **Key Skills:** Logistic Regression, Dynamic Programming, Expected Loss Modeling.
 - **Highlight:** Achieved 99.7% model accuracy in predicting customer defaults.
 
-### NeuroAI & Machine Learning (Coming Soon)
-Independent research project on neural signal processing and neural network architecture.
+_other projects will be added over time_
