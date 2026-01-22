@@ -13,4 +13,8 @@ Implementation of credit risk models and data optimization using Python.
 - **Key Skills:** Logistic Regression, Dynamic Programming, Expected Loss Modeling.
 - **Highlight:** Achieved 99.7% model accuracy in predicting customer defaults.
 
+### 2. Rice Price Prediction
+An automated data analytics tool designed to track, analyze, and predict rice commodity prices based on regional historical data.
+- **Key Skills:** Automated Data Cleaning, Trend Forecasting, Automated Reporting, Dynamic Visualization.
+
 _other projects will be added over time_
