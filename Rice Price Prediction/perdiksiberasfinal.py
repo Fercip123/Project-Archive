@@ -77,7 +77,7 @@ class SistemAnalisisPangan:
         print("- Gambar grafik 'grafik_prediksi.png' telah disimpan.")
 
 # --- Jalankan Program ---
-path = r'D:\VScode\Python\Prediksi harga beras\Tabel_Harga Berdasarkan_Daerah.csv'
+path = 'Tabel_Harga Berdasarkan_Daerah.csv'
 proyek = SistemAnalisisPangan(path)
 proyek.analisis_dan_export(list_index=[1, 2, 3], jumlah_bulan=12)
 
@@ -96,4 +96,5 @@ proyek.analisis_dan_export(list_index=[1, 2, 3], jumlah_bulan=12)
 #pandas digunakan untuk manipulasi data,
 #numpy untuk operasi numerik,
 #scikit-learn untuk model machine learning (linear regression),
+
 #dan matplotlib untuk visualisasi data.
