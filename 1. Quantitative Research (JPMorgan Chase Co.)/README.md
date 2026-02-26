@@ -29,8 +29,5 @@ Estimated potential financial losses using the *Expected Loss* (EL) framework:
 $$EL = PD \times LGD \times EAD$$
 *Where PD = Prob. of Default, LGD = Loss Given Default (60%), and EAD = Exposure at Default.*
 
-## 🚀 Relevance to NeuroAI
-While this project is finance-based, the core techniques—**Maximum Likelihood Estimation (MLE)** and **Dynamic Programming**—are fundamental pillars in *Computational Neuroscience*. These methods are essential for modeling neural spike sorting and optimizing artificial neural network architectures.
-
 ---
 *Completed on January 20, 2026, as part of an academic portfolio*
